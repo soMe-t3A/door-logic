@@ -1,11 +1,7 @@
-<a id="readme-top"></a>
-
-[![AGPL 3.0 License][license-shield]][license-url]
+[![AGPL-3.0 License][license-shield]][license-url]
 
 
 # Door Logic  |  Texture Pack
-
----
 
 
 ## Description
@@ -14,17 +10,11 @@ This is a very small mod that simply replaces some existing content in [Mindustr
 
 It was created, at least, to slightly refresh the experience of constructing logic circuits from logic elements, where a binary signal is transmitted through doors.
 
----
-
 
 ### Mod Contents
 
 - **Door**: custom sprites, sound
 - **Logic**: custom sprites
-
-<a href="#readme-top" align="right">^ Top</a>
-
----
 
 
 ## Installation
@@ -40,10 +30,6 @@ From in-game Mod Browser:
 2. In the search input box, enter `Door Logic`.
 3. Find and install the mod that matches the description.
 4. Enable the mod in-game.
-
-<a href="#readme-top" align="right">^ Top</a>
-
----
 
 
 ## License
@@ -61,16 +47,13 @@ The mod was created by [soMe-t3A](author-url), who is the author of all modified
 
 For details on third-party resources and licenses, see `ATTRIBUTION.md`.
 
-<a href="#readme-top" align="right">^ Top</a>
-
----
 
 [author-url]:
 https://github.com/soMe-t3A
 
 [license-url]:
 https://choosealicense.com/licenses/agpl-3.0/
-<!-- https://github.com/soMe-t3A/door-logic/blob/master/LICENSE.txt -->
+<!-- https://github.com/soMe-t3A/door-logic/blob/master/LICENSE -->
 [license-shield]:
 https://img.shields.io/github/license/soMe-t3A/door-logic.svg?style=for-the-badge
 
